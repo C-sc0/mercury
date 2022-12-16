@@ -1,0 +1,14 @@
+
+Usage: python main.py --execute or python main.py -e
+                        and
+                 Choose an option.
+
+================= SCRIPTS =================
+
+NETWORKING
+
+    host_disc           Scan a group or a single target and discover which are online.
+    os_disc             Discover which operating system is running in a online host.
+
+    web_disc            Get information about a web site.
+    services_in_web     Get services, versión and category running in a web site.\n

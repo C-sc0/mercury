@@ -1,0 +1,21 @@
+CHOOSE AN OPTION:\n
+
+        Tool                                Description\n
+
+
+        - NETWORKING -\n
+
+        [0] host_disc                           Scan a network or a single target and discover which are online.\n
+        [1] os_disc                             Discover which operating system is running in a online host.\n
+
+
+        - WEB -\n
+
+        [2] web_disc                            Get basic information about a web site.\n
+        [3] services_in_web                     Get services, versión and category running in a web site.\n
+
+
+        - OPERTATING SYSTEM -\n
+
+        [4] extract_wlan_passwords              List all WLAN connetions and show passwords stored in the operating system.\n
+

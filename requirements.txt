@@ -1,0 +1,6 @@
+getopts==1.0.5
+colorama==0.4.6
+requests==2.28.1
+scapy==2.4.5
+webeye==2.3.12
+python-Wappalyzer

@@ -1,0 +1,13 @@
+
+Usage: ping OPTION
+
+
+Options:
+
+    -h,     --help                  Show this help.
+    -v,     --version               Show the version of mercury.
+
+    -e, --execute                   List the tools.
+    -S, --show-scripts              Show all scripts options.
+
+    
