@@ -23,15 +23,15 @@ Some features (Like Scapy library) needs superuser privilege, so, you have to ru
 
 ## SCRIPTS
 
-###### ==NETWORKING==
+###### == NETWORKING ==
 1. `host_disc`: Choose the `0` option to scan a network or a single target and discover which are online.
 2. `os_disc`: Choose the `1` option to discover which operating system is running in a online host.
 
-###### ==WEB==
+###### == WEB ==
 3. `web_disc`: Choose the `2` option to get basic information about a web site.
 4. `services_in_web`: Choose the `3` option to get services, versión and category running in a web site.
 
-###### ==OPERATING SYSTEM==
+###### == OPERATING SYSTEM ==
 3. `extract_wlan_passwords`: Choose the `4` option to list all WLAN connetions and show passwords stored in the operating system.
 
 
